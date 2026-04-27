@@ -122,53 +122,57 @@ The primary entry point for leadership to monitor global health.
 
 <img width="542" height="311" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/ed25307e-3061-483d-a3f5-639610029b13" />
 
-[INSERT EXECUTIVE SUMMARY IMAGE HERE - image_0f265d.png]
+## **2. Product Intelligence: Performance & Inventory** ##
 
-2. Product Intelligence: Performance & Inventory
 A deep dive into what is selling and what is being returned.
 
-Volume vs. Value: While Bikes drive the highest revenue, Accessories (like the Water Bottle - 30oz) drive the highest order frequency.
+-Volume vs. Value: While Bikes drive the highest revenue, Accessories (like the Water Bottle - 30oz) drive the highest order frequency.
 
-Product Hierarchy: Analysis across Categories, Sub-categories, and individual SKUs.
+-Product Hierarchy: Analysis across Categories, Sub-categories, and individual SKUs.
 
-Inventory Strategy: Identifying "Top Sellers" to optimize stock levels and supply chain focus.
+-Inventory Strategy: Identifying "Top Sellers" to optimize stock levels and supply chain focus.
 
-[INSERT PRODUCT DETAIL IMAGE HERE - image_0f1ab8.png]
+<img width="594" height="329" alt="products details" src="https://github.com/user-attachments/assets/27cc430f-13ca-4f46-b49e-25d0cc76a33a" />
 
-3. Customer Analytics: Demographic Profiling
+
+## **3. Customer Analytics: Demographic Profiling** ##
+
 Understanding the "who" behind the revenue.
 
-Occupational Trends: Analysis shows that Professionals and those in Management contribute the highest revenue share.
+-Occupational Trends: Analysis shows that Professionals and those in Management contribute the highest revenue share.
 
-Top Individual Customers: Identifying "Whale" customers (e.g., Maurice Shan and Janet Munoz) for potential loyalty or targeted marketing campaigns.
+-Top Individual Customers: Identifying "Whale" customers (e.g., Maurice Shan and Janet Munoz) for potential loyalty or targeted marketing campaigns.
 
-Revenue Per Customer: Tracking the average value of the customer base over time.
+-Revenue Per Customer: Tracking the average value of the customer base over time.
 
-[INSERT CUSTOMER DETAIL IMAGE HERE - image_0f17b1.png]
+<img width="594" height="329" alt="Customers details" src="https://github.com/user-attachments/assets/358843cd-5d74-4c51-88f8-f0c0bcb3fcdf" />
 
-4. Geospatial Performance: Regional Deep-Dive
+## **4. Geospatial Performance: Regional Deep-Dive** ##
+
 Interactive mapping of the global footprint.
 
-Market Dominance: North America remains the primary revenue engine, followed by Europe and Australia.
+-Market Dominance: North America remains the primary revenue engine, followed by Europe and Australia.
 
-Order Distribution: Visualizing order density across specific territories to identify untapped market opportunities.
+-Order Distribution: Visualizing order density across specific territories to identify untapped market opportunities.
 
-Regional Filtering: Stakeholders can filter the entire report suite by clicking on specific continents or regions.
+-Regional Filtering: Stakeholders can filter the entire report suite by clicking on specific continents or regions.
 
-[INSERT MAP/REGIONAL IMAGE HERE - image_0f1b56.jpg]
+<img width="593" height="337" alt="Geographical insights" src="https://github.com/user-attachments/assets/c7a1b68e-6bfe-4575-b87f-3a21635d97f5" />
 
-💡 Key Actionable Insights
-Retention Opportunity: Professionals represent the highest-spending segment; marketing efforts should focus on high-end bike models for this demographic.
+## **💡 Key Actionable Insights** ##
 
-Product Optimization: Accessories have high volume but low margin; bundling these with high-margin Bike purchases could increase the Average Order Value (AOV).
+-Retention Opportunity: Professionals represent the highest-spending segment; marketing efforts should focus on high-end bike models for this demographic.
 
-Geographic Expansion: The Pacific/Australian market shows high order density relative to its size, suggesting a strong candidate for regional warehouse expansion to reduce shipping costs.
+-Product Optimization: Accessories have high volume but low margin; bundling these with high-margin Bike purchases could increase the Average Order Value (AOV).
 
-🛠️ Tools Used
-Power BI Desktop: Report Authoring & DAX.
+-Geographic Expansion: The Pacific/Australian market shows high order density relative to its size, suggesting a strong candidate for regional warehouse expansion to reduce shipping costs.
 
-Power Query: Data Cleaning & ETL.
+**🛠️ Tools Used**
 
-DAX: Time-Intelligence & Advanced Calculations.
+-Power BI Desktop: Report Authoring & DAX.
 
-Star Schema: Relational Data Modeling.
+-Power Query: Data Cleaning & ETL.
+
+-DAX: Time-Intelligence & Advanced Calculations.
+
+-Star Schema: Relational Data Modeling.
