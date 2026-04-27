@@ -1,8 +1,8 @@
-**🏦 Bank Fraud Detection & Transaction Analysis**##
+## **🏦 Bank Fraud Detection & Transaction Analysis** ##
 
 -Unsupervised Ensemble Learning & Behavioral Risk Intelligence
 
-##**📌 Project Overview**##
+## **📌 Project Overview** ##
 This project implements a sophisticated Anomaly Detection Engine designed to identify fraudulent activity within high-volume banking transactions. In a financial landscape where fraud patterns evolve rapidly, this system moves beyond static rules-based alerts to an unsupervised ensemble architecture.
 
 By integrating behavioral feature engineering with multiple mathematical outlier detection models, the system identifies "Zero-Day" anomalies—suspicious activities that have no prior known signature.
