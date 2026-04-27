@@ -1,5 +1,6 @@
-**🏦 Bank Fraud Detection & Transaction Analysis**
-Unsupervised Ensemble Learning & Behavioral Risk Intelligence
+***🏦 Bank Fraud Detection & Transaction Analysis***
+
+-Unsupervised Ensemble Learning & Behavioral Risk Intelligence
 **📌 Project Overview**
 This project implements a sophisticated Anomaly Detection Engine designed to identify fraudulent activity within high-volume banking transactions. In a financial landscape where fraud patterns evolve rapidly, this system moves beyond static rules-based alerts to an unsupervised ensemble architecture.
 
